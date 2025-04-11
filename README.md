@@ -1,0 +1,1 @@
+This repository will contain various contents of my MIT 305 course.
